@@ -1,2 +1,1 @@
-# UWP_MVVM_-Template
-Basic templeta UWP with MVVM Pattern
+Basic template MVVM pattern with Hamburguer Menu support.
